@@ -1,6 +1,6 @@
 $(document).ready(() => {
     var url = "https://api.darksky.net/forecast/",
-        key = "8eeafa93fa171bb970bfac9b03caa3a3",
+        key = ">>>>CHAVE<<<<",
         lati = "-18.9127749",
         longi = "-48.2755227",
         opcoes = "?exclude=minutely,hourly,daily,flags,alerts";
